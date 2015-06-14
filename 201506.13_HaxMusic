@@ -1,0 +1,93 @@
+Music Hack for The People's School of Music (TPSM) organized Monkeybars
+@ Braintree 222 W Merchandise Mart Plaza 8th Floor Chicago IL 60647
+
+TPSM teaches music playing/composing/conducting and theory to children/people in Chicago.  They've noticed that the learning curve of music is exponential which skews rewards to the later years of learning.  This means that it's harder for students to stick with practice and instruments earlier in the process of learning music well.
+
+- How can this curve be straightened so that more rewards appear earlier?
+
+TPSM currently teaches about 500 students a year.  They'd like to reach more students.  
+
+- How can TPSM reach more students?  
+- How can they do this with limited resources?  
+- Can technology help students learn music?
+
+Ideas from introduction:
+- learning
+  - foreign to familiar + repeat
+  - start with familiar + add new + make it familiar + repeat
+  - Marx dialectic = thesis + antithesis = synthesis
+- music patterns sometimes taught as home sounds moving to away sounds containing tension such as sad/terror resolving back to home (this can be for classical/pop/etc.)
+- pattern learning
+- interactivity/checker/game
+- feedback loop = my practice sound attempting to mimic a goal sound
+- feedback loop = my practice rhythm attempting to mimic a goal rhythm
+- similar music concepts bridge music genres
+
+Ideas from TPSM students + hackamigos:
+- note recognition game (competitive)
+- practice
+  - limited resources (time)
+  - guidance about which part to work on next
+  - rhythm
+  - sharps/flats
+  - staccato / ligatto
+  - memorization
+  - timing changes
+  - learning part 1, then part 2, and then relearning part 1 because learning part 2 affected your knowledge of part 1
+  - note recognition
+- songster.com
+- correct ending (resolve it)
+- synthesizer -> tune sampler (eg. cat meow)
+- modulator
+- autotune
+
+Ideas from me:
+- teach music
+  - framework
+  - patterns
+    - chords
+    - dischords
+  - rules
+- music like language has rules (grammar, syntax).
+- PATTERN learning
+  - music
+  - singing
+  - language
+  - dancing
+- feedback loop
+  - record my art (eg. sounds)
+  - clean the art (eg. sounds)
+  - pick a goal art (eg. sound)
+  - compare for differences
+    - eg. for sound notes/rhythm/etc.
+    - compare one to one
+    - compare by inverting one sound and playing to hear the differences
+      - challenges in this method included 
+        - starting the songs simultaneously
+        - playing the songs with the same tempo
+  - Rosetta Stone does this for language already.  So, it can be done.
+
+Existing educational constructs and processes around learning on computers includes:
+* CAI = Computer Assisted Instruction
+* CALL = Computer Assisted Language Learning
+* CAMIL = Computer Assisted Music Instruction
+* CAMIL = Computer Assisted Music Instruction Laboratory
+
+Existing tools which may help students/educators:
+- PortableApps.com
+  Mnemosyne Portable - flashcard memorization tool
+  Solfege Portable - ear training program
+  Audacity Portable - A simple audio editor and recorder
+  LMMS (Linux MultiMedia Studio) Portable - music creation and production
+  MuseScore Portable - music composition and notation
+- http://www.audeering.com/research/opensmile
+- http://tombaran.info/autotalent.html
+- NU = http://music.eecs.northwestern.edu/
+- CAMIL
+  http://www.music.illinois.edu/about/facilities/music-building/computer-assisted-music-instruction-laboratory-camil
+  http://camil.music.illinois.edu/Home/index.php/Main_Page
+  https://faa.illinois.edu/computer-assisted-music-instruction-laboratory
+- CAMI
+  http://www.csun.edu/~dwh50750/IntroToMusicTech/Ch16-CAI.html
+  http://www2.nau.edu/tas3/courseindex.html
+  http://digitalcommons.unl.edu/dissertations/AAI3284028/
