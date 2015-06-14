@@ -1,2 +1,2 @@
 # event
-This "folder" contains notes from events which I've attended.
+This folder contains notes from events which I've attended.
