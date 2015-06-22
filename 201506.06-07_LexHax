@@ -1,0 +1,50 @@
+Challenge Title: Pursuit Evaluator
+When if ever does it make sense in terms of time, money, or effort to pursue an issue in a legal arena?
+http://lexhacks.challengepost.com/forum_topics/4730-1-000-challenge-lexhacks-2015-illinois-legal-aid-online-donor-funded
+
+danlinna • Daniel W. Linna Jr. Moderator • $1,000 Challenge - LexHacks 2015 - Illinois Legal Aid Online - Donor Funded
+
+This is a donor-funded public-interest challenge. To donate funds toward this challenge, please email lcolpoys@illinoislegalaid.org and linnadan@law.msu.edu. Specific instructions will be provided so that a donation to Illinois Legal Aid Online may qualify as a charitable contribution.
+
+Challenge Description:
+
+1. Lisa Colpoys credits Ron Staudt with this idea: “Many self-represented persons are not aware of how much money, time and energy is involved in pursuing their own legal cases. Pursuit Evaluator is an online tool that allows them to evaluate whether initiating or defending a case will be worth their time, money, and effort. Depending on the type of legal problem a person has, the Pursuit Evaluator runs the best/average/worst case scenarios. It helps self-represented litigants make an initial diagnosis of their options when deciding how to proceed.”
+
+The above text and much more detail can be found at pages 55-57 and 146-150 of Charles L. Owen, Ronald W. Staudt, & Edward B. Pedwell, Access to Justice: Meeting the Needs of Self-Represented Litigants (hereinafter “Access to Justice”), available at: http://www.kentlaw.iit.edu/Documents/Institutes%20and%20Centers/CAJT/access-to-justice-meeting-the-needs.pdf
+
+2. To begin, the solution should address Scenario 2 on page 57 of Access to Justice: “Horace and his wife agreed to get a divorce. After being married for two years, they realized that their marriage just doesn’t work. Horace identifies their case as an uncontested divorce, where neither property nor children are involved. Asking for estimated costs, time and effort for the legal process for both court and non-court options, the Pursuit Evaluator comes up with specific information.”
+3. This initial implementation based on Scenario 2 does not require a backend database, but instead requests inputs from the user and provides an evaluation.
+4. This initial implementation based on Scenario 2 should include the generation of a decision tree with an expected value. For example, see the decision trees in this slide deck: http://www.slideshare.net/DanielWLinnaJr/5linna-litigation-decision-trees-lecture-20150218
+5. An improved implementation should address Scenario 1 on page 57 of Access to Justice, which describes a landlord-tenant dispute.
+6. A robust implementation would include a backend database to store a variety of information, such as typical case length, typical wait, required fees, etc., which would be used to compute the evaluation. See Access to Justice page 56.
+7. Out of scope for this challenge—but worth noting—is that a very advanced implementation would automatically update this database by accessing information regarding fees from court websites and accessing case information from court dockets.
+
+Jurisdiction: The solution should be standardized and flexible so that it would be easy to implement it in any jurisdiction by modifying it to account for any differences in that jurisdiction’s law. For the purposes of building a solution to this challenge, it may be based on Illinois or Michigan law.
+Technology to Be Used: Build a mobile-friendly website accessible by common browsers (build on an open source platform (extra points for Drupal, but it is not required))
+Prize: $1,000
+Sponsor Designee: Lisa Colpoys, Executive Director, Illinois Legal Aid Online
+Email address for Challenge Questions: lcolpoys@illinoislegalaid.org
+
+Our Solution:
+An individual always has the option to settle outside of the court systems.
+
+Claim -> Do Nothing
+Claim -> File -> Court -> (Dismissed | Judgement)
+
+Dismissed = (Lose)
+Judgement = (Win Hi | Win Lo)
+
+Not a lot of court data available including claims and filings and results or amounts awarded. 
+
+If this data were available, then 
+- individuals would have a better sense of their chances before they entered the court room.  
+- lawyer stats would be more readily available (potentially useful to lawyers, judges, and individuals)
+- judge stats would be more readily available (potentially useful to lawyers, judges, and individuals)
+
+_____
+
+This system reminds me of 
+- sports - winning and losing.
+- betting - odds of winning and losing.
+
+Perhaps existing sports technology can be refitted to organize legal data.
