@@ -1,3 +1,32 @@
+Our Solution Won!:
+http://challengepost.com/software/pursuit-estimator
+https://docs.google.com/presentation/d/1aqbuEln_01cciuqUjbMxc6U7j3-U5QHqeUGf0YCTqIs/edit?usp=sharing
+
+An individual always has the option to settle outside of the court systems.  An individual may also file a claim and pursue the issue in court.  If a claim is filed, then the below paths may be followed:
+
+Claim -> Do Nothing
+Claim -> File -> Court -> (Dismissed | Judgement)
+
+Dismissed = (Lose)
+Judgement = (Win Hi | Win Lo)
+
+Not a lot of court data available including claims and filings and results or amounts awarded. 
+
+If this data were available, then 
+- individuals would have a better sense of their chances before they entered the court room.  
+- lawyer stats would be more readily available (potentially useful to lawyers, judges, and individuals)
+- judge stats would be more readily available (potentially useful to lawyers, judges, and individuals)
+
+_____
+
+This system reminds me of 
+- sports - winning and losing.
+- betting - odds of winning and losing.
+
+Perhaps existing sports technology can be refitted to organize legal data.
+
+
+
 Challenge Title: Pursuit Evaluator
 When if ever does it make sense in terms of time, money, or effort to pursue an issue in a legal arena?
 http://lexhacks.challengepost.com/forum_topics/4730-1-000-challenge-lexhacks-2015-illinois-legal-aid-online-donor-funded
@@ -24,30 +53,3 @@ Technology to Be Used: Build a mobile-friendly website accessible by common brow
 Prize: $1,000
 Sponsor Designee: Lisa Colpoys, Executive Director, Illinois Legal Aid Online
 Email address for Challenge Questions: lcolpoys@illinoislegalaid.org
-
-Our Solution:
-http://challengepost.com/software/pursuit-estimator
-https://docs.google.com/presentation/d/1aqbuEln_01cciuqUjbMxc6U7j3-U5QHqeUGf0YCTqIs/edit?usp=sharing
-
-An individual always has the option to settle outside of the court systems.  An individual may also file a claim and pursue the issue in court.  If a claim is filed, then the below paths may be followed:
-
-Claim -> Do Nothing
-Claim -> File -> Court -> (Dismissed | Judgement)
-
-Dismissed = (Lose)
-Judgement = (Win Hi | Win Lo)
-
-Not a lot of court data available including claims and filings and results or amounts awarded. 
-
-If this data were available, then 
-- individuals would have a better sense of their chances before they entered the court room.  
-- lawyer stats would be more readily available (potentially useful to lawyers, judges, and individuals)
-- judge stats would be more readily available (potentially useful to lawyers, judges, and individuals)
-
-_____
-
-This system reminds me of 
-- sports - winning and losing.
-- betting - odds of winning and losing.
-
-Perhaps existing sports technology can be refitted to organize legal data.
